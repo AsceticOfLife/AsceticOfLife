@@ -3,8 +3,8 @@
 - 🤔 I’m currently studying for the master's degree at Wuhan University.(2022.9.1 ~ )
 ## Languaues and Tools
 <span > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=C++&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-orange?style=flat-square&logo=python&logoColor=orange">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">   
 </span>
 
 
