@@ -4,7 +4,7 @@
 ## Languaues and Tools
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=C++&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=orange">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-orange?style=flat-square&logo=python&logoColor=orange">  
 </span>
 
 
