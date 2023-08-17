@@ -4,12 +4,10 @@
 - 🤔 I’m currently studying for the master's degree at Wuhan University.(2022.9.1 ~ )
 
 
-
-# GitHub State
-<a href="https://github.com/AsceticOfLife/AsceticOfLife">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsceticOfLife&show_icons=true&theme=radical />
-</a>
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsceticOfLife&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsceticOfLife&show_icons=true&theme=transparent" /> 
+</div>
+  
 <!--
 **AsceticOfLife/AsceticOfLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
