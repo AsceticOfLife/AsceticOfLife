@@ -1,13 +1,15 @@
-# Hi there! Nice to meet you! 👋
-- 👯 My name is Guo MengWei.
+# Hi there! 👋 I'm Guo MengWei. 
 - 🌱 I have graduated with a bachelor's degree from Zhengzhou University.(2018.9.1 ~ 2022.7.1)
 - 🤔 I’m currently studying for the master's degree at Wuhan University.(2022.9.1 ~ )
+## Languaues and Tools
 
-----------
+
+## My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsceticOfLife&show_icons=true&theme=transparent" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsceticOfLife&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
-  
+
+
 <!--
 **AsceticOfLife/AsceticOfLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
