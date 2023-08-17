@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi there! Nice to meet you! 👋
+- 👯 My name is Guo MengWei.
+- 🌱 I have graduated with a bachelor's degree from Zhengzhou University.(2018.9.1 ~ 2022.7.1)
+- 🤔 I’m currently studying for the master's degree at Wuhan University.(2022.9.1 ~ )
 
+
+
+# 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsceticOfLife&repo=github-readme-stats"&show_icons=true&theme=radical />
+</a>
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsceticOfLife&show_icons=true&theme=radical)
 <!--
 **AsceticOfLife/AsceticOfLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
