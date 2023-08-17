@@ -6,8 +6,8 @@
 
 
 # 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsceticOfLife&repo=github-readme-stats"&show_icons=true&theme=radical />
+<a href="https://github.com/AsceticOfLife/AsceticOfLife">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsceticOfLife&show_icons=true&theme=radical />
 </a>
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsceticOfLife&show_icons=true&theme=radical)
 <!--
