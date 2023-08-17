@@ -3,7 +3,7 @@
 - 🌱 I have graduated with a bachelor's degree from Zhengzhou University.(2018.9.1 ~ 2022.7.1)
 - 🤔 I’m currently studying for the master's degree at Wuhan University.(2022.9.1 ~ )
 
-
+----------
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsceticOfLife&show_icons=true&theme=transparent" /> 
 </div>
