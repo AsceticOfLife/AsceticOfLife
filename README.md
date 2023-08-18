@@ -7,6 +7,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/MATLAB-orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CMake-green">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">   
 </span>
 
