@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72EE5&center=true&size=27&repeat=false&width=435&lines=%E4%BF%9D%E6%8C%81%E7%83%AD%E6%83%85%EF%BC%8C%E6%B0%B8%E8%BF%9C%E5%89%8D%E8%A1%8C%EF%BC%81" alt="Typing SVG" />
   </a>
 </div>
+
 # Hi there! 👋 I'm Guo MengWei. 
 - 🌱 I have graduated with a bachelor's degree from Zhengzhou University.(2018.9.1 ~ 2022.7.1)
 - 🤔 I’m currently studying for the master's degree at Wuhan University.(2022.9.1 ~ )
