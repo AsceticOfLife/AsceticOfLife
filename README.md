@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://github.com/AsceticOfLife">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72EE5&center=true&size=27&repeat=false&width=435&lines=%E4%BF%9D%E6%8C%81%E7%83%AD%E6%83%85%EF%BC%8C%E6%B0%B8%E8%BF%9C%E5%89%8D%E8%A1%8C%EF%BC%81" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F549F7&repeat=false&width=435&lines=%E6%B5%81%E6%B0%B4%E4%B8%8D%E4%BA%89%E5%85%88%EF%BC%8C%E4%BA%89%E7%9A%84%E6%98%AF%E6%BB%94%E6%BB%94%E4%B8%8D%E7%BB%9D" alt="Typing SVG" />
   </a>
 </div>
 
